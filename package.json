@@ -1,0 +1,8 @@
+{
+  "scripts": {
+      "e2e": "./node_modules/.bin/cypress run --spec ./cypress/e2e/add-to-cart.cy.js"
+    },
+  "dependencies": {
+    "cypress": "^10.3.0"
+  }
+}
